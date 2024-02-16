@@ -4,7 +4,9 @@
   <a href="#"><img src="https://readme-typing-svg.herokuapp.com?lines=Flutter+Developer;Aspiring+Learner&center=true&width=500&height=50"></a>
 </p>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=ziadsalama95&label=Profile%20views&color=0e75b6&style=flat" alt="ziadsalama" /> </p>
+<p align="left">
+  <a href="#"><img src="https://komarev.com/ghpvc/?username=ziadsalama95&label=Profile%20views&color=0e75b6&style=flat" alt="ziadsalama"></a> 
+</p>
 
 - 🌱 I’m currently learning **Flutter Development**
 
