@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Ziad</h1>
 
 <p align="center">
-  <a href="#"><img src="https://readme-typing-svg.herokuapp.com?lines=Mobile+App+Developer&center=true&width=500&height=50"></a>
+  <a href="#"><img src="https://readme-typing-svg.herokuapp.com?lines=Software+Engineer;Flutter+Developer&center=true&width=500&height=50"></a>
 </p>
 
 <p align="left">
