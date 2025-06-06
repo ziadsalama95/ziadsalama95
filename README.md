@@ -43,7 +43,7 @@
 
 <h2>📈 GitHub Insights</h2>
 <p align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=ziadsalama95&show_icons=true&theme=radical" alt="GitHub Stats" width="48%">
+    <img src="https://github-readme-stats.vercel.app/api?username=ziadsalama95&show_icons=true&theme=radical&hide=prs,issues,contribs" alt="GitHub Stats" width="48%">
 </p>
 <p align="center">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ziadsalama95&layout=compact&theme=radical" alt="Top Languages" width="48%">
