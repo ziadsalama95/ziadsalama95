@@ -42,8 +42,13 @@
 <hr>
 
 <h2>📈 GitHub Insights</h2>
+
 <p align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=ziadsalama95&show_icons=true&theme=radical&hide=prs,issues,contribs" alt="GitHub Stats" width="48%">
+    <img src="https://komarev.com/ghpvc/?username=ziadsalama95&color=brightgreen">
+</p>
+
+<p align="center">
+    <img src="https://github-readme-stats.vercel.app/api?username=ziadsalama95&show_icons=true&theme=radical&hide=prs,issues,contribs&show=reviews,discussions_started" alt="GitHub Stats" width="48%">
 </p>
 <p align="center">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ziadsalama95&layout=compact&theme=radical" alt="Top Languages" width="48%">
@@ -52,6 +57,7 @@
 <hr>
 
 <h2>📬 Contact</h2>
+
 <p align="center">
     <a href="mailto:ziadsalama95@gmail.com">
         <img src="https://img.shields.io/badge/Email-%23D14836.svg?style=for-the-badge&logo=gmail&logoColor=white">
@@ -62,10 +68,12 @@
     <a href="https://linkedin.com/in/ziadsalama/">
         <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white">
     </a>
-</p>
-
-<p align="center">
-    <img src="https://komarev.com/ghpvc/?username=ziadsalama95&color=brightgreen">
+    <a href="https://www.facebook.com/ZEX404">
+        <img src="https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=facebook&logoColor=white">
+    </a>
+    <a href="https://www.youtube.com/@ZEX404">
+        <img src="https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=youtube&logoColor=white">
+    </a>
 </p>
 
 <hr>
