@@ -77,3 +77,7 @@
 <p align="center">
     I'm open to collaborations in AI, machine learning, and data-driven projects. Whether it's research, development, or innovative applications, let's connect and create impactful solutions together.
 </p>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
+</p>
