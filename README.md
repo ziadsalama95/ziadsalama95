@@ -16,12 +16,12 @@
 
 <h2>💼 Areas of Focus</h2>
 <ul>
-    <li>🔹 Machine Learning Model Development & Evaluation</li>
-    <li>🔹 Deep Learning for Audio, Vision, and NLP Applications</li>
-    <li>🔹 Data Engineering: ETL Pipelines & Data Warehousing</li>
-    <li>🔹 Cloud-Based AI Deployments (Azure, Snowflake)</li>
-    <li>🔹 Web Scraping & Data Collection Automation</li>
-    <li>🔹 Interactive Data Applications with Streamlit</li>
+    <li>Machine Learning Model Development & Evaluation</li>
+    <li>Deep Learning for Audio, Vision, and NLP Applications</li>
+    <li>Data Engineering: ETL Pipelines & Data Warehousing</li>
+    <li>Cloud-Based AI Deployments (Azure, Snowflake)</li>
+    <li>Web Scraping & Data Collection Automation</li>
+    <li>Interactive Data Applications with Streamlit</li>
 </ul>
 
 <hr>
