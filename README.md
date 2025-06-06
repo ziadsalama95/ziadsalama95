@@ -2,7 +2,7 @@
 
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&text=%F0%9F%91%8B%20Hi%2C%20I%27m%20Ziad%20Salama&height=100&section=header"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&text=%F0%9F%91%8B%20Hi%2C%20I%27m%20Ziad&height=100&section=header"/>
 </p>
 
 <p align="center">
