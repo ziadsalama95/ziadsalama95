@@ -1,6 +1,9 @@
 [![Header Banner](https://raw.githubusercontent.com/ziadsalama95/ziadsalama95/main/Banner.gif)](https://linkedin.com/in/ziadsalama/)
 
-<h1 align="center">👋 Hi, I'm Ziad Salama</h1>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&text='👋 Hi, I'm Ziad Salama'&height=100&section=header"/>
+</p>
 
 <p align="center">
     <img src="https://img.shields.io/badge/Artificial%20Intelligence-%230077B5.svg?&style=for-the-badge&logo=python&logoColor=white">
