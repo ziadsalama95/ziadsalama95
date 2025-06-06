@@ -1,6 +1,3 @@
-[![Header Banner](https://raw.githubusercontent.com/ziadsalama95/ziadsalama95/main/Banner.gif)](https://linkedin.com/in/ziadsalama/)
-
-
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&text=%F0%9F%91%8B%20Hi%2C%20I%27m%20Ziad&height=100&section=header"/>
 </p>
