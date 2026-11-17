@@ -1,8 +1,8 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,100:2563eb&height=220&section=header&text=Ziad%20Salama&fontSize=48&fontColor=ffffff&animation=fadeIn&desc=Artificial%20Intelligence%20Engineer&descSize=18&descAlignY=68" width="100%" alt="Animated blue wave banner with Ziad Salama, Artificial Intelligence Engineer" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,100:2563eb&height=220&section=header&text=Ziad%20Salama&fontSize=48&fontColor=ffffff&animation=fadeIn&desc=AI%20%26%20Data%20Science&descSize=18&descAlignY=68" width="100%" alt="Animated blue wave banner with Ziad Salama, AI and Data Science" />
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=2800&pause=900&color=00D9FF&center=true&vCenter=true&width=800&lines=AI+Engineer;AI+%26+Data+Science;LLM+and+RAG+applications" alt="Animated typing text: AI Engineer, AI and Data Science, LLM and RAG applications" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=2800&pause=900&color=00D9FF&center=true&vCenter=true&width=800&lines=AI+%26+Data+Science;LLM+and+RAG+applications;Data+engineering" alt="Animated typing text: AI and Data Science, LLM and RAG applications, Data engineering" />
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/ziadsalama/)
 [![Email](https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ziadsalama95@gmail.com)
@@ -15,7 +15,7 @@
 
 ## About
 
-AI Engineer at the **Generative Technology Center (GTC)** in Alexandria, Egypt. I graduated from **Egypt-Japan University of Science and Technology (E-JUST)**, Faculty of Computer Science, with a **B+ in AI and Data Science**. I build LLM and RAG applications, data pipelines, and software products.
+I graduated from **Egypt-Japan University of Science and Technology (E-JUST)**, Faculty of Computer Science, with a **B+ in AI and Data Science**. I work on LLM and RAG applications and data pipelines.
 
 ## Featured work
 
