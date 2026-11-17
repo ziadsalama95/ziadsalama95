@@ -15,7 +15,7 @@
 
 ## About
 
-AI Engineer based in Alexandria, Egypt. I graduated from E-JUST with a **B+ in AI and Data Science**. I build LLM applications, retrieval systems, and data pipelines.
+AI Engineer at the **Generative Technology Center (GTC)** in Alexandria, Egypt. I graduated from **Egypt-Japan University of Science and Technology (E-JUST)**, Faculty of Computer Science, with a **B+ in AI and Data Science**. I build LLM and RAG applications, data pipelines, and software products.
 
 ## Featured work
 
